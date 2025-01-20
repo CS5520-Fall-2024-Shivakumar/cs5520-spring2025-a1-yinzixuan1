@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "5520_ZixuanYin"
+rootProject.name = "NUMAD25Sp_ZixuanYin"
 include ':app'
